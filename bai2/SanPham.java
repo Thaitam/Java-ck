@@ -7,7 +7,6 @@ public class SanPham {
     double donGia;
     double giamGia;
     int namSX;
-    
 
     public SanPham(String tensp,double dongia, double giamgia, int namsx) {
         tenSp = tensp;
